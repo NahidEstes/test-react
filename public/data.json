@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John",
+    "age": 50,
+    "img": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg",
+    "country": "Usa",
+    "readTime": 5
+  },
+  {
+    "name": "Praskdfa asdf",
+    "age": 30,
+    "img": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg",
+    "country": "Brazil",
+    "readTime": 5
+  },
+  {
+    "name": "Invot DSK",
+    "age": 34,
+    "img": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg",
+    "country": "Canada",
+    "readTime": 5
+  },
+  {
+    "name": "David Jack",
+    "age": 31,
+    "img": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg",
+    "country": "Portugal",
+    "readTime": 5
+  },
+  {
+    "name": "Robert Doe",
+    "age": 23,
+    "img": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg",
+    "country": "Albania",
+    "readTime": 5
+  },
+  {
+    "name": "Jaffery Walson",
+    "age": 18,
+    "img": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg",
+    "country": "Turkey",
+    "readTime": 5
+  }
+]
